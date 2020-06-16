@@ -1,7 +1,7 @@
 # EndpointSecurity
 
 
-#Steps After Cloning Repo:
+#Steps After Cloning Repo and checking out the 'maju' branch:
 
  - I recommend running this on a Mac VM. Otherwise you can risk security.
  - Reboot your machine into recovery mode (Hold down CMD>R when booting up).
